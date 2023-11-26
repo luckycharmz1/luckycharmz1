@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently working on getting my web development certificate from Mission College<br><br>🧠I'm currently learning JavaScript.<br><br>👀I'm looking for help on AJAX.<br><br>🙉Ask me about anything..well but maybe not anything. Keep it PG!"<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...Mac 'n cheese is my favorite food.
+🛠 I'm currently working on getting my web development certificate from Mission College<br><br>🧠I'm currently learning JavaScript.<br><br>👀I'm looking for help on AJAX.<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...Mac 'n cheese is my favorite food.
 
 
 ## 🌐 Socials:

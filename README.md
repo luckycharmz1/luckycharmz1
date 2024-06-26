@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently working in a biology lab at Stanford University, so I won't be coding for a while.<br><br>🧠I'm currently learning Python.<br><br>👀I'm looking for help with MERN stack.<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...Mac 'n cheese is my favorite food.
+🛠 I'm currently working in a biology lab at Stanford University, so I won't be coding for a while.<br><br>🧠I'm currently learning Python.<br><br>👀I'm looking for help with spyder.<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...Mac 'n cheese is my favorite food.
 
 
 ## 🌐 Socials:

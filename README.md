@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently working in a microbiology lab at Stanford University, so I won't be coding for a while.<br><br>🧠I'm currently learning Python.<br><br>👀I'm looking for help with Spyder.<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...Mac 'n cheese is my favorite food.
+🛠 I'm currently working in a microbiology lab at Stanford University, so I won't be coding for a while.<br><br>🧠I'm currently learning Anaconda Python.<br><br>👀I'm looking for help with Spyder.<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...I like playing COD and PubG!
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently working in a microbiology lab at Stanford University, so I won't be coding for a while.<br><br>🧠I'm currently learning Anaconda Python.<br><br>👀I'm looking for help with Spyder.<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...I like playing COD and PubG!
+🛠 I just finished my science small group program at Stanford University, and I am now trying to take the information that I learned at my time at Stanford and build a biomedical data analysis app.<br><br>🧠I'm currently learning SQL and C++.<br><br>👀I'm looking for help with Java.<br><br>📱How to reach me?? cwashington2011@outlook.com<br><br>✌Fun Fact...I like playing COD and PubG!
 
 
 ## 🌐 Socials:
